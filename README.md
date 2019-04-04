@@ -69,10 +69,10 @@ On top of moving around the document you can also do some limited editing, such 
 `c`, `d`, and `y` are called operators and are combined with a motion.<br>
 
 `y` is our yank (copy) operator.
-- `y&rarr;`: Copy the char under the cursor
-- `y&larr;`: Copy the char before the cursor
-- `y&darr;`: Copy the text on the current line and the line below
-- `y&uarr;`: Copy the text on the current line and the line above
+- `y &rarr;`: Copy the char under the cursor
+- `y &larr;`: Copy the char before the cursor
+- `y &darr;`: Copy the text on the current line and the line below
+- `y &uarr;`: Copy the text on the current line and the line above
 - `y$`: Copy text from cursor to end of line
 - `y^`: Copy text from before cursor to beginning of line
 - `yy, Y`: Copy the current line of text
@@ -81,10 +81,10 @@ On top of moving around the document you can also do some limited editing, such 
 
 `d` is our delete/cut key and works in a similar fashion to yank
 deleting in Vim is more like cutting in Vim since it places your deletion in the buffer you paste from
-- `d&rarr;`: Cut the char under the cursor
-- `d&larr;`: Cut the char before the cursor
-- `d&darr;`: Cut the text on the current line and the line below
-- `d&uarr;`: Cut the text on the current line and the line above
+- `d &rarr;`: Cut the char under the cursor
+- `d &larr;`: Cut the char before the cursor
+- `d &darr;`: Cut the text on the current line and the line below
+- `d &uarr;`: Cut the text on the current line and the line above
 - `d$, D`: Cut text from cursor to end of line
 - `d^`: Cut text from before cursor to beginning of line
 - `dd`: Cut the current line of text
