@@ -69,7 +69,7 @@ On top of moving around the document you can also do some limited editing, such 
 `c`, `d`, and `y` are called operators and are combined with a motion.<br>
 
 `y` is our yank (copy) operator.
-- y :right_arrow:: Copy the char under the cursor
+- y :right_arrow: : Copy the char under the cursor
 - `y :left_arrow:`: Copy the char before the cursor
 - `y :down_arrow:`: Copy the text on the current line and the line below
 - `y :up_arrow:`: Copy the text on the current line and the line above
