@@ -17,6 +17,8 @@ This is a compilation of the most useful tips and tricks for vim that I use on a
 
 ## Basics
 
+:right_arrow:
+
 > This section is designed so you should be able to create a document. If you only read this part then you will technically be able to use Vim, but you will be missing out on it's  best features. If this is all you are using in Vim then I recommend switching to a different editor that will more than likely speed up your workflow. This section is the very basics of Vim and does not show to powerful tools Vim has to offer.
 
 - how to open a file in vim
